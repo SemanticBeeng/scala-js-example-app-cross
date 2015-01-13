@@ -24,4 +24,4 @@ Similar to previous
 
 * Shared code is accessible in JS test and application
 * See the scala-js Google Group thread called "Scala.js] multi module Play Framework build with utest" for insights
-from Sébastien Doeraene
+from Sébastien Doeraene (https://groups.google.com/forum/#!forum/scala-js)
