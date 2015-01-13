@@ -1,8 +1,8 @@
-# Example project showing "cross building" with Scala.js 0.6.0-M3.
+# Example project showing "cross building" with Scala.js 0.6.0-M3 and testing with uTest.
 
 #### 1. https://github.com/sjrd/scala-js-example-app/blob/cross/build.sbt
 Demonstrates use pf crossProject API from build.sbt
-Does not demonstrate shared code
+Does not demonstrate shared code from uTests.
 
 #### 2. https://github.com/sjrd/play-with-scalajs-example/blob/m3-with-cross-utest/project/Build.scala
 Demonstrates use of PlayScalaJS from a Build.scala (not build,sbt)
