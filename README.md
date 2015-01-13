@@ -1,8 +1,4 @@
-# Example application written in Scala.js
-
-Demonstrates "cross building" with ScalaJS SBT plugin 0.6.0-M3.
-
-Builds upon
+# Example project showing "cross building" with Scala.js 0.6.0-M3.
 
 #### 1. https://github.com/sjrd/scala-js-example-app/blob/cross/build.sbt
 Demonstrates use pf crossProject API from build.sbt
