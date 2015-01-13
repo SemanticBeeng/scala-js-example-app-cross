@@ -17,4 +17,4 @@ between a test https://github.com/sjrd/play-with-scalajs-example/blob/m3-with-cr
 ### 3. https://github.com/vmunier/play-with-scalajs-example/blob/upgrade-to-scala-js-v0.6.0-M3/project/Build.scala
 similar to previous
 
-![Alt text](/img/scalajs-example.jpg?raw=true "Project dependencies in IDEA")
+![Alt text](https://raw.githubusercontent.com/SemanticBeeng/scala-js-example-app-cross/master/img/scalajs-example.png "Project dependencies in IDEA")
