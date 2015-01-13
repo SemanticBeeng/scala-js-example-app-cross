@@ -25,3 +25,7 @@ Similar to previous
 
 
 ![Alt text](https://raw.githubusercontent.com/SemanticBeeng/scala-js-example-app-cross/master/img/scalajs-example.png "Project dependencies in IDEA")
+
+* Shared code is accessible in JS test and application
+* See the scala-js Google Group thread called "Scala.js] multi module Play Framework build with utest" for insights
+from Sébastien Doeraene
